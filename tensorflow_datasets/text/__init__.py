@@ -29,6 +29,7 @@ from tensorflow_datasets.text.definite_pronoun_resolution import DefinitePronoun
 from tensorflow_datasets.text.eraser_multi_rc import EraserMultiRc
 from tensorflow_datasets.text.esnli import Esnli
 from tensorflow_datasets.text.gap import Gap
+from tensorflow_datasets.text.gpt3 import Gpt3
 from tensorflow_datasets.text.glue import Glue
 from tensorflow_datasets.text.goemotions import Goemotions
 from tensorflow_datasets.text.imdb import IMDBReviews
